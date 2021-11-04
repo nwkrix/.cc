@@ -1,0 +1,5 @@
+This is a sample file for reading by my C++ program. 
+It is some what gibberish writing.I just pressed ent
+er to see what happens on ENTER. I made a double ENT
+
+ER to see what paragraphing looks like.
